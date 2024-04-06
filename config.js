@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Relic Manipulation',
+					link: 'https://docs.google.com/spreadsheets/d/1eLVcVcRrFognl-i_54gk8tLZsPEyG6-nF1kzyTsAqSI/edit#gid=2111776096',
 				},
 				{
 					name: 'Bluesky',
