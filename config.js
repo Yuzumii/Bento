@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.nvidia.com/de-de/geforce/drivers/',
 				},
 				{
-					name: 'Pokke',
-					link: 'https://pokkelibrary.com/',
+					name: 'Prydwen',
+					link: 'https://www.prydwen.gg/',
 				},
 				{
 					name: 'AL Tier List',
@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Relic Manipulation',
-					link: 'https://docs.google.com/spreadsheets/d/1eLVcVcRrFognl-i_54gk8tLZsPEyG6-nF1kzyTsAqSI/edit#gid=2111776096',
+					name: 'XMA',
+					link: 'https://www.xivmodarchive.com/search',
 				},
 				{
-					name: 'Bluesky',
-					link: 'https://bsky.app/',
+					name: 'Unvaulted',
+					link: 'https://unvaulted.coomer.party/',
 				},
 				{
 					name: 'Trello',
