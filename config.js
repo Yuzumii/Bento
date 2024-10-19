@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://unvaulted.coomer.party/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Bluesky',
+					link: 'https://bsky.app/',
 				},
 				{
 					name: 'Slack',
