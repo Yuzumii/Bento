@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'XMA',
-					link: 'https://www.xivmodarchive.com/search',
+					name: 'SKILL4lTU',
+					link: 'https://skill4ltu.eu/',
 				},
 				{
 					name: 'Unvaulted',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://bsky.app/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Warframe Market',
+					link: 'https://warframe.market/',
 				},
 			],
 		},
