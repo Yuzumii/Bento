@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Reddit',
 			icon: 'gitlab',
-			link: 'https://www.reddit.com/',
+			link: 'https://old.reddit.com/',
 		},
 		{
 			id: '5',
