@@ -152,7 +152,7 @@ const CONFIG = {
 				},
 				{
 					name: 'AL Tier List',
-					link: 'https://slaimuda.github.io/ectl/#/home',
+					link: 'https://azur-lane-regal.suchiguma.com/',
 				},
 			],
 		},
