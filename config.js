@@ -54,13 +54,13 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'play',
 			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '2',
 			name: 'Twitch',
-			icon: 'twitch',
+			icon: 'tv-minimal',
 			link: 'https://www.twitch.tv/directory/following',
 		},
 		{
@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Reddit',
-			icon: 'gitlab',
+			icon: 'shredder',
 			link: 'https://old.reddit.com/',
 		},
 		{
 			id: '5',
 			name: 'Twitter',
-			icon: 'twitter',
+			icon: 'x',
 			link: 'https://twitter.com',
 		},
 		{
