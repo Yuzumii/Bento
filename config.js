@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://skill4ltu.eu/',
 				},
 				{
-					name: 'Unvaulted',
-					link: 'https://unvaulted.coomer.party/',
+					name: 'Telegram',
+					link: 'https://web.telegram.org/k/',
 				},
 				{
 					name: 'Bluesky',
