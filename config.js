@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Soft Murmur',
-					link: 'https://asoftmurmur.com/',
+					name: 'Odysseus',
+					link: 'http://localhost:7000/',
 				},
 				{
 					name: 'NVIDIA',
